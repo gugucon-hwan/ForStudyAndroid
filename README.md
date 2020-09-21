@@ -1,6 +1,6 @@
 # 📦안드로이드(Android) 공부
 
-> 안드로이드(Android) 공부과정이다.
+> 안드로이드(Android) 공부과정이다.(All_subject로 中 이전함)
 
 
 
